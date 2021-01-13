@@ -1,0 +1,24 @@
+//Playing Character (PC) - 
+human with power
+
+//Non-Playing Character (NPC) - 
+enemies, and skeletons
+
+//Goal of the player -
+defeat enemies.
+
+//Rules of the game - 
+cannot go out of story, can have only one power
+
+//Game adaptivity - 
+stages
+
+//Elements of chance -
+fight damge power
+
+//Elements of skill -
+strategy and be quick
+
+//Immediate feedback to the player on how they are doing - 
+story of the game - 
+there will be short stories when we pass stages.
